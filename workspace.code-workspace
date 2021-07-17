@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "H:\\ledp\\web"
+		},
+		{
+			"path": "H:\\ledp\\myfile"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web",
+		"files.autoSave": "afterDelay"
+	}
+}

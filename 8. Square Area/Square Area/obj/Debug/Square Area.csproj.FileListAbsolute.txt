@@ -1,0 +1,6 @@
+D:\Mishu\C#\Job 1\Square Area\Square Area\bin\Debug\Square Area.exe.config
+D:\Mishu\C#\Job 1\Square Area\Square Area\bin\Debug\Square Area.exe
+D:\Mishu\C#\Job 1\Square Area\Square Area\bin\Debug\Square Area.pdb
+D:\Mishu\C#\Job 1\Square Area\Square Area\obj\Debug\Square Area.csprojResolveAssemblyReference.cache
+D:\Mishu\C#\Job 1\Square Area\Square Area\obj\Debug\Square Area.exe
+D:\Mishu\C#\Job 1\Square Area\Square Area\obj\Debug\Square Area.pdb

@@ -1,0 +1,6 @@
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Trapesium Area\bin\Debug\Trapesium Area.exe.config
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Trapesium Area\bin\Debug\Trapesium Area.exe
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Trapesium Area\bin\Debug\Trapesium Area.pdb
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Trapesium Area\obj\Debug\Trapesium Area.exe
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Trapesium Area\obj\Debug\Trapesium Area.pdb
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Trapesium Area\obj\Debug\Trapesium Area.csprojResolveAssemblyReference.cache

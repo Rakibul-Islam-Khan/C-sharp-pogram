@@ -1,0 +1,24 @@
+D:\Mishu\C#\Job 1\Rambas\Rambas\bin\Debug\Rhombus.exe.config
+D:\Mishu\C#\Job 1\Rambas\Rambas\bin\Debug\Rhombus.exe
+D:\Mishu\C#\Job 1\Rambas\Rambas\bin\Debug\Rhombus.pdb
+D:\Mishu\C#\Job 1\Rambas\Rambas\obj\Debug\Rhombus.csprojResolveAssemblyReference.cache
+D:\Mishu\C#\Job 1\Rambas\Rambas\obj\Debug\Rhombus.exe
+D:\Mishu\C#\Job 1\Rambas\Rambas\obj\Debug\Rhombus.pdb
+D:\Mishu\C#\Job 1\Rhombus\Rambas\bin\Debug\Rhombus.exe.config
+D:\Mishu\C#\Job 1\Rhombus\Rambas\bin\Debug\Rhombus.exe
+D:\Mishu\C#\Job 1\Rhombus\Rambas\bin\Debug\Rhombus.pdb
+D:\Mishu\C#\Job 1\Rhombus\Rambas\obj\Debug\Rhombus.csprojResolveAssemblyReference.cache
+D:\Mishu\C#\Job 1\Rhombus\Rambas\obj\Debug\Rhombus.exe
+D:\Mishu\C#\Job 1\Rhombus\Rambas\obj\Debug\Rhombus.pdb
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Rhombus\Rambas\bin\Debug\Rhombus.exe.config
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Rhombus\Rambas\bin\Debug\Rhombus.exe
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Rhombus\Rambas\bin\Debug\Rhombus.pdb
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Rhombus\Rambas\obj\Debug\Rhombus.csprojResolveAssemblyReference.cache
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Rhombus\Rambas\obj\Debug\Rhombus.exe
+D:\Mishu\C#\Cls Assignment\2. Area Measurement\Rhombus\Rambas\obj\Debug\Rhombus.pdb
+E:\Object Oriented Programming\7. Rhombus\Rambas\bin\Debug\Rhombus.exe.config
+E:\Object Oriented Programming\7. Rhombus\Rambas\bin\Debug\Rhombus.exe
+E:\Object Oriented Programming\7. Rhombus\Rambas\bin\Debug\Rhombus.pdb
+E:\Object Oriented Programming\7. Rhombus\Rambas\obj\Debug\Rhombus.csprojResolveAssemblyReference.cache
+E:\Object Oriented Programming\7. Rhombus\Rambas\obj\Debug\Rhombus.exe
+E:\Object Oriented Programming\7. Rhombus\Rambas\obj\Debug\Rhombus.pdb

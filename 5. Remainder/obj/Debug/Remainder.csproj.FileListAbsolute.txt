@@ -1,0 +1,6 @@
+D:\Mishu\C#\Cls Assignment\1. Addition, Substraction, Multiply, Division, Remainder\Remainder\bin\Debug\Remainder.exe.config
+D:\Mishu\C#\Cls Assignment\1. Addition, Substraction, Multiply, Division, Remainder\Remainder\bin\Debug\Remainder.exe
+D:\Mishu\C#\Cls Assignment\1. Addition, Substraction, Multiply, Division, Remainder\Remainder\bin\Debug\Remainder.pdb
+D:\Mishu\C#\Cls Assignment\1. Addition, Substraction, Multiply, Division, Remainder\Remainder\obj\Debug\Remainder.csprojResolveAssemblyReference.cache
+D:\Mishu\C#\Cls Assignment\1. Addition, Substraction, Multiply, Division, Remainder\Remainder\obj\Debug\Remainder.exe
+D:\Mishu\C#\Cls Assignment\1. Addition, Substraction, Multiply, Division, Remainder\Remainder\obj\Debug\Remainder.pdb
